@@ -1,5 +1,6 @@
 Overview:
-This HR dashboard is designed specifically for a sports analytics company, providing a user-friendly interface for managing and visualising key HR metrics. The dashboard helps streamline HR processes, offering insights into employee performance, engagement, and workforce analytics, all in real-time.
+This HR dashboard is designed specifically for a sports analytics company, providing a user-friendly interface for managing and visualising key HR metrics. 
+The dashboard helps streamline HR processes, offering insights into employee performance, engagement, and workforce analytics, all in real-time.
 
 Features:
 Employee Performance Tracking: Monitor individual and team performance with easy-to-understand visualisations.
