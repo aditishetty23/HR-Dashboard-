@@ -1,7 +1,7 @@
-Overview
+Overview:
 This HR dashboard is designed specifically for a sports analytics company, providing a user-friendly interface for managing and visualising key HR metrics. The dashboard helps streamline HR processes, offering insights into employee performance, engagement, and workforce analytics, all in real-time.
 
-Features
+Features:
 Employee Performance Tracking: Monitor individual and team performance with easy-to-understand visualisations.
 Engagement Metrics: Assess employee engagement through various metrics, helping to identify areas for improvement.
 Turnover Analysis: Track and analyse employee turnover rates to understand patterns and improve retention strategies.
